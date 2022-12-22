@@ -1,0 +1,7 @@
+echo "#hello-word" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M ใจดี
+git remote add origin https://github.com/Pimpop1997/hello-word. git
+ git push -u กำเนิดใจดี
